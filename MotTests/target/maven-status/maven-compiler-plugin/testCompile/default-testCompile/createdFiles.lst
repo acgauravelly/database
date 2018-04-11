@@ -1,0 +1,6 @@
+Pages\MobilePage.class
+Tests\CommonUtil.class
+Tests\MobileTest.class
+Utils\WebConnector.class
+Pages\BasePage.class
+Tests\TestRunner.class

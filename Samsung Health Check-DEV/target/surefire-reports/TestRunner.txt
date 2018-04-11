@@ -1,0 +1,62 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 87.037 sec <<< FAILURE! - in TestRunner
+Then assets should be copied over(Scenario: Copying assets to other languages)  Time elapsed: 0.007 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Timed out after 30 seconds waiting for element to be clickable: By.xpath: Images=//span[@class='icon-video']
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'FLIXPC012', ip: '192.168.1.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 23d1d99e-ba7c-4b31-ba8d-e659380b7ec6
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+The given selector Images=//span[@class='icon-video'] is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression Images=//span[@class='icon-video'] because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'FLIXPC012', ip: '192.168.1.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 23d1d99e-ba7c-4b31-ba8d-e659380b7ec6
+*** Element info: {Using=xpath, value=Images=//span[@class='icon-video']}
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+The given selector Images=//span[@class='icon-video'] is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression Images=//span[@class='icon-video'] because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'FLIXPC012', ip: '192.168.1.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_73'
+Driver info: driver.version: unknown
+
+Scenario: Copying assets to other languages  Time elapsed: 0.008 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Timed out after 30 seconds waiting for element to be clickable: By.xpath: Images=//span[@class='icon-video']
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'FLIXPC012', ip: '192.168.1.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 23d1d99e-ba7c-4b31-ba8d-e659380b7ec6
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+The given selector Images=//span[@class='icon-video'] is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression Images=//span[@class='icon-video'] because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'FLIXPC012', ip: '192.168.1.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 23d1d99e-ba7c-4b31-ba8d-e659380b7ec6
+*** Element info: {Using=xpath, value=Images=//span[@class='icon-video']}
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+The given selector Images=//span[@class='icon-video'] is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression Images=//span[@class='icon-video'] because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'FLIXPC012', ip: '192.168.1.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_73'
+Driver info: driver.version: unknown
+

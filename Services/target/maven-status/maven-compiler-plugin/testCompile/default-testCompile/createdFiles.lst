@@ -1,0 +1,6 @@
+Pages\AllServicesPage.class
+Utils\WebConnector.class
+Pages\BasePage.class
+Tests\Commonutil.class
+Tests\AllServicesTests.class
+Tests\TestRunner.class

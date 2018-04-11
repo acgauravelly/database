@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: Tests.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 65, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 371.887 sec <<< FAILURE!
+Then I should be able to verify the \"AMD\" content(| AMD | http:\/\/m.darty.com\/m\/achat\/informatique\/ordinateur_portable-portable\/portable\/asus_x552we-sx013h.html |)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.AssertionError: Mot not delivered on inpage 2
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at Pages.MobilePage.twoMotAndOneManualInpage(MobilePage.java:137)
+	at Tests.MobileTest.iShouldBeAbleToVerifyTheContent(MobileTest.java:51)
+	at ?.Then I should be able to verify the "AMD" content(MobileTemplate.feature:42)
+| AMD | http:\/\/m.darty.com\/m\/achat\/informatique\/ordinateur_portable-portable\/portable\/asus_x552we-sx013h.html |  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.AssertionError: Mot not delivered on inpage 2
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at Pages.MobilePage.twoMotAndOneManualInpage(MobilePage.java:137)
+	at Tests.MobileTest.iShouldBeAbleToVerifyTheContent(MobileTest.java:51)
+	at ?.Then I should be able to verify the "AMD" content(MobileTemplate.feature:42)

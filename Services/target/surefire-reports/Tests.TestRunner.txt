@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+Test set: Tests.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 155.938 sec <<< FAILURE!
+Then I should be able to check the \"aw\"  is displayed(Scenario: Attach Widget interface is available)  Time elapsed: 0.004 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"class name","selector":"flix-mscomp-container"}
+Command duration or timeout: 5.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'FLIXPC010', ip: '192.168.1.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c9f1987-ec07-4c8d-b979-c9a45a6cbad7
+*** Element info: {Using=class name, value=flix-mscomp-container}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:477)
+	at org.openqa.selenium.By$ByClassName.findElement(By.java:391)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at Pages.BasePage.findElement(BasePage.java:31)
+	at Pages.BasePage.isElementDisplayed(BasePage.java:66)
+	at Pages.AllServicesPage.isComparisionTableisDisplayed(AllServicesPage.java:86)
+	at Tests.AllServicesTests.iShouldBeAbleToCheckTheIsDisplayed(AllServicesTests.java:38)
+	at ?.Then I should be able to check the "aw"  is displayed(AttachWidget.feature:10)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"class name","selector":"flix-mscomp-container"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'FLIXPC010', ip: '192.168.1.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/Ajay/AppData/Local/Temp/anonymous5453015069768017607webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/Ajay/AppData/Local/Temp/anonymous5453015069768017607webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:625)
+Scenario: Attach Widget interface is available  Time elapsed: 0.008 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"class name","selector":"flix-mscomp-container"}
+Command duration or timeout: 5.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'FLIXPC010', ip: '192.168.1.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c9f1987-ec07-4c8d-b979-c9a45a6cbad7
+*** Element info: {Using=class name, value=flix-mscomp-container}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:477)
+	at org.openqa.selenium.By$ByClassName.findElement(By.java:391)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at Pages.BasePage.findElement(BasePage.java:31)
+	at Pages.BasePage.isElementDisplayed(BasePage.java:66)
+	at Pages.AllServicesPage.isComparisionTableisDisplayed(AllServicesPage.java:86)
+	at Tests.AllServicesTests.iShouldBeAbleToCheckTheIsDisplayed(AllServicesTests.java:38)
+	at ?.Then I should be able to check the "aw"  is displayed(AttachWidget.feature:10)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"class name","selector":"flix-mscomp-container"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'FLIXPC010', ip: '192.168.1.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/Ajay/AppData/Local/Temp/anonymous5453015069768017607webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/Ajay/AppData/Local/Temp/anonymous5453015069768017607webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:625)

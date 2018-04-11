@@ -1,0 +1,76 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "AW Impression",
+        "description": "",
+        "id": "aw-tracking;aw-impression",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 41657307745,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I visit the \"aw\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "aw",
+                  "offset": 13
+                }
+              ],
+              "location": "TrackingTests.iVisitTheClamp(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14825368,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 7,
+                "value": "#    And I export the harfile"
+              }
+            ],
+            "line": 8,
+            "name": "I should be able to verify the impressions for \"attach widget\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "attach widget",
+                  "offset": 48
+                }
+              ],
+              "location": "TrackingTests.iShouldBeAbleToVerifyTheImpressionsFor(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@AW"
+          }
+        ]
+      }
+    ],
+    "name": "AW Tracking",
+    "description": "",
+    "id": "aw-tracking",
+    "keyword": "Feature",
+    "uri": "AttachWidget.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@All"
+      }
+    ]
+  }
+]

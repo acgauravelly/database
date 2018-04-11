@@ -1,0 +1,99 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 8,
+        "name": "Batch Download",
+        "description": "",
+        "id": "batch-download;batch-download",
+        "after": [
+          {
+            "result": {
+              "duration": 182187,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Commonutil.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 36911304382,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Iam logged in to MC",
+            "match": {
+              "location": "SearchesTest.iamLoggedInToMC()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 22190186991,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I am on the product page",
+            "match": {
+              "location": "BatchDownloadTest.iAmOnTheProductPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5564550084,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click the download buttton",
+            "match": {
+              "location": "BatchDownloadTest.iClickTheDownloadButtton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10652770821,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "the product should be downloaded with in 2 minutes",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 41
+                }
+              ],
+              "location": "BatchDownloadTest.theProductShouldBeDownloadedWithInMinutes(int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@batchdownload"
+          }
+        ]
+      }
+    ],
+    "name": "Batch Download",
+    "description": "\r\nAs a mc user\r\nI should be able to download the whole product",
+    "id": "batch-download",
+    "keyword": "Feature",
+    "uri": "BatchDownload.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@All"
+      }
+    ]
+  }
+]

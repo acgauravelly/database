@@ -1,0 +1,314 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "AW Impression",
+        "description": "",
+        "id": "aw-tracking;aw-impression",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 57834757332,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I visit the \"attach widget Clamp\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "attach widget Clamp",
+                  "offset": 13
+                }
+              ],
+              "location": "TrackingTests.iVisitThe(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 22275495754,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 7,
+                "value": "# And I play the Video"
+              }
+            ],
+            "line": 8,
+            "name": "I export the harfile",
+            "match": {
+              "location": "TrackingTests.iExportTheHarfile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 147255705,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should be able to verify the impressions for \"attach widget\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "attach widget",
+                  "offset": 48
+                }
+              ],
+              "location": "TrackingTests.iShouldBeAbleToVerifyTheTrackingFor(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@AW"
+          }
+        ]
+      }
+    ],
+    "name": "AW Tracking",
+    "description": "",
+    "id": "aw-tracking",
+    "keyword": "Feature",
+    "uri": "AttachWidget.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Additional"
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Comparision table  Impression on Inpage",
+        "description": "",
+        "id": "comparision-table-tracking;comparision-table--impression-on-inpage",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 49861567324,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I visit the \"Comparision Clamp\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Comparision Clamp",
+                  "offset": 13
+                }
+              ],
+              "location": "TrackingTests.iVisitThe(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 21662509232,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I export the harfile",
+            "match": {
+              "location": "TrackingTests.iExportTheHarfile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2272423,
+              "error_message": "java.lang.AssertionError: Har file not created\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat Pages.BasePage.additionalFeaturesTracking(BasePage.java:305)\r\n\tat Tests.TrackingTests.iShouldBeAbleToVerifyTheTrackingFor(TrackingTests.java:79)\r\n\tat ✽.Then I should be able to verify the impressions for \"Comparision table\"(Comparision.feature:8)\r\n",
+              "status": "failed"
+            },
+            "line": 8,
+            "name": "I should be able to verify the impressions for \"Comparision table\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Comparision table",
+                  "offset": 48
+                }
+              ],
+              "location": "TrackingTests.iShouldBeAbleToVerifyTheTrackingFor(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@comparisionInpage"
+          }
+        ]
+      }
+    ],
+    "name": "Comparision Table Tracking",
+    "description": "",
+    "id": "comparision-table-tracking",
+    "keyword": "Feature",
+    "uri": "Comparision.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Additional"
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Reviews impresion on Inpage",
+        "description": "",
+        "id": "reviews-logging;reviews-impresion-on-inpage",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 49807585100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I visit the \"clamp url\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "clamp url",
+                  "offset": 13
+                }
+              ],
+              "location": "TrackingTests.iVisitThe(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 21665491202,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I export the harfile",
+            "match": {
+              "location": "TrackingTests.iExportTheHarfile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1368745,
+              "error_message": "java.lang.AssertionError: Har file not created\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat Pages.BasePage.Tracking(BasePage.java:214)\r\n\tat Tests.TrackingTests.iShouldBeAbleToVerifyTheTrackingFor(TrackingTests.java:71)\r\n\tat ✽.Then I should be able to verify the impressions for \"reviews\"(Reviews.feature:9)\r\n",
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "I should be able to verify the impressions for \"reviews\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "reviews",
+                  "offset": 48
+                }
+              ],
+              "location": "TrackingTests.iShouldBeAbleToVerifyTheTrackingFor(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@inpagereviews"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Reviews impression on Minisite",
+        "description": "",
+        "id": "reviews-logging;reviews-impression-on-minisite",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 49964166446,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I visit the \"Minisite reviews  url\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Minisite reviews  url",
+                  "offset": 13
+                }
+              ],
+              "location": "TrackingTests.iVisitThe(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 21615770519,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I export the harfile",
+            "match": {
+              "location": "TrackingTests.iExportTheHarfile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37288912,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I should be able to verify the impressions for \"reviews\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "reviews",
+                  "offset": 48
+                }
+              ],
+              "location": "TrackingTests.iShouldBeAbleToVerifyTheTrackingFor(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@minisitereviews"
+          }
+        ]
+      }
+    ],
+    "name": "Reviews Logging",
+    "description": "",
+    "id": "reviews-logging",
+    "keyword": "Feature",
+    "uri": "Reviews.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Additional"
+      }
+    ]
+  }
+]

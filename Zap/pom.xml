@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zap.flix</groupId>
+    <artifactId>Zap</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <plugins>
+    <plugin>
+        <groupId>br.com.softplan.security.zap</groupId>
+        <artifactId>zap-maven-plugin</artifactId>
+        <version>${zap-maven-plugin.version}</version>
+        <configuration>
+            <zapPort>8080</zapPort>
+            <targetUrl>http://localhost:8090/testwebapp</targetUrl>
+            <zapPath>C:\Program Files (x86)\OWASP\Zed Attack Proxy</zapPath>
+        </configuration>
+    </plugin>
+    <plugin>
+        <groupId>br.com.softplan.security.zap</groupId>
+        <artifactId>zap-maven-plugin</artifactId>
+        <version>${zap-maven-plugin.version}</version>
+        <configuration>
+            <!-- whatever configuration -->
+        </configuration>
+        <executions>
+            <execution>
+                <id>start-zap</id>
+                <phase>pre-integration-test</phase>
+                <goals><goal>startZap</goal></goals>
+            </execution>
+            <execution>
+                <id>selenium-analyze</id>
+                <phase>post-integration-test</phase>
+                <goals><goal>seleniumAnalyze</goal></goals>
+            </execution>
+        </executions>
+    </plugin>
+    </plugins>
+</project>

@@ -1,0 +1,36 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\ajay\.jenkins\workspace\Services check
+Parsing POMs
+Discovered a new module Healthchecks:Staus Staus
+Modules changed, recalculating dependency graph
+ERROR: Failed to parse POMs
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mjava.io.FileNotFoundException: C:\Users\ajay\.jenkins\workspace\Services check\Healthchecks:Staus\builds\2\log (The filename, directory name, or volume label syntax is incorrect)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at hudson.maven.MavenBuild$ProxyImpl2.<init>(MavenBuild.java:567)
+	at hudson.maven.MavenModuleSetBuild$MavenModuleSetBuildExecution.doRun(MavenModuleSetBuild.java:721)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:534)
+	at hudson.model.Run.execute(Run.java:1738)
+	at hudson.maven.MavenModuleSetBuild.run(MavenModuleSetBuild.java:531)
+	at hudson.model.ResourceController.execute(ResourceController.java:98)
+	at hudson.model.Executor.run(Executor.java:410)
+FATAL: Failed to create a temporary file in C:\Users\ajay\.jenkins\workspace\Services check\Healthchecks:Staus\builds\2
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mjava.io.IOException: Failed to create a temporary file in C:\Users\ajay\.jenkins\workspace\Services check\Healthchecks:Staus\builds\2
+	at hudson.util.AtomicFileWriter.<init>(AtomicFileWriter.java:68)
+	at hudson.util.AtomicFileWriter.<init>(AtomicFileWriter.java:55)
+	at hudson.XmlFile.write(XmlFile.java:175)
+	at hudson.model.Run.save(Run.java:1896)
+	at hudson.maven.MavenModuleSetBuild$MavenModuleSetBuildExecution.post2(MavenModuleSetBuild.java:1044)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.post(AbstractBuild.java:668)
+	at hudson.model.Run.execute(Run.java:1763)
+	at hudson.maven.MavenModuleSetBuild.run(MavenModuleSetBuild.java:531)
+	at hudson.model.ResourceController.execute(ResourceController.java:98)
+	at hudson.model.Executor.run(Executor.java:410)
+Caused by: java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createTempFile(Unknown Source)
+	at hudson.util.AtomicFileWriter.<init>(AtomicFileWriter.java:66)
+	... 9 more
+Finished: FAILURE

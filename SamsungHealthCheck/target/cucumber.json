@@ -1,0 +1,97 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 7,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 12708967183,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Iam logged in to the Hub as \"admin\" user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin",
+                  "offset": 29
+                }
+              ],
+              "location": "AdminFunctionsTest.iamLoggedInToTheHubAsUser(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 410340540,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Iam on \"landing page\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "landing page",
+                  "offset": 8
+                }
+              ],
+              "location": "SearchTests.iamOn(String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Advanced keyword search",
+        "description": "",
+        "id": "natural-search-with-keyword;advanced-keyword-search",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7273456253,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I should be able to use \"advanced keyword\" search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "advanced keyword",
+                  "offset": 25
+                }
+              ],
+              "location": "SearchTests.iShouldBeAbleToUseSearch(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@advkeysearch"
+          }
+        ]
+      }
+    ],
+    "name": "Natural search with Keyword",
+    "description": "As a MC user\r\nI should be able to search with keyword from natural search",
+    "id": "natural-search-with-keyword",
+    "keyword": "Feature",
+    "uri": "Module2/KewordSearch.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@All"
+      }
+    ]
+  }
+]

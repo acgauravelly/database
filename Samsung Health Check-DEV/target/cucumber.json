@@ -1,0 +1,93 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 7,
+        "name": "Remove users from group",
+        "description": "",
+        "id": "remove-users-from-the-group-from-edit-view;remove-users-from-group",
+        "after": [
+          {
+            "result": {
+              "duration": 260321,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CommonUtil.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 38419108422,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Iam on Landing Page as an Admin user",
+            "match": {
+              "location": "CommonUtil.iam_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 26312853480,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Iam on the Admin menu",
+            "match": {
+              "location": "CommonUtil.Admin_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55566204884,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I remove a user from a group",
+            "match": {
+              "location": "RemoveGroupUserTest.iRemoveAUserFromAGroup()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 52462307762,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user should be removed from the group",
+            "match": {
+              "location": "RemoveGroupUserTest.theUserShouldBeRemovedFromTheGroup()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@remove"
+          }
+        ]
+      }
+    ],
+    "name": "Remove users from the group from edit view",
+    "description": "As an Admin user\r\nI should be able to remove a user associated with a group",
+    "id": "remove-users-from-the-group-from-edit-view",
+    "keyword": "Feature",
+    "uri": "Phase2/RemoveGroupUsers.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@All"
+      }
+    ]
+  }
+]
