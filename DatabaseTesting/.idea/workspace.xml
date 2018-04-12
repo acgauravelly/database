@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="328959a2-b374-4795-be76-f6293e2d0735" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BSAuto/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_20_v20161216.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/Drivers/chromedriver.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/src/test/java/Tests/BatchDownloadTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/src/test/java/Tests/TestRunner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/target/test-classes/Pages/BasePage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BatchDownloadLocal/target/test-classes/Tests/BatchDownloadTests.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/copyright/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/src/main/resources/prod_config.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/src/test/java/Translationtest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentCopyTest/target/cucumber-html-report/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/.idea/kotlinc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_20_v20161216.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/ContentLoadingSpeed.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/src/test/java/Pages/ProxyPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ContentLoadingSpeed/src/test/java/Tests/ContentLoadTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/src/test/java/Tests/DshareTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Crawler/src/test/java/Utils/WebConnector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/copyright/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/src/test/java/AddNewProductTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/src/test/java/AddtoCartTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/src/test/java/EANSearchTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/src/test/java/MenuOptionsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/src/test/resources/MiniSite.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/src/test/resources/RequestAccess.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/classes/dev_config.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/classes/live_config.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/cucumber-html-report/embedded13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/cucumber-html-report/embedded2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/cucumber-html-report/embedded8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/cucumber-html-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/cucumber-html-report/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/test-classes/AddNewProduct.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/test-classes/AddtoCartTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/test-classes/BasicInformationTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/test-classes/ForgotPasswordTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DEV-ManageContent/target/test-classes/ImagesTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DatabaseTesting.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/DBConnection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/src/test/java/Pages/BasePage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/target/test-classes/EditProduct.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/target/test-classes/Pages/LandingPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/target/test-classes/Pages/ReaderPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../EcbMicrosoft/target/test-classes/Tests/EditProductTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/kotlinc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/drivers/geckodriver.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/src/test/java/Tests/CommonUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../FetchData/target/test-classes/Pages/FetchDataPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__net_jsourcerer_webdriver_JSErrorCollector_0_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/target/cucumber.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JSerrors/target/test-classes/JSerrors.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/drivers/chromedriver.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/target/cucumber-html-report/embedded0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/target/test-classes/Minisite.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/target/test-classes/Tests/TestRunner.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JWPlayer/target/test-classes/Util/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_24.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_20_v20161216.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/drivers/chromedriver.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/drivers/geckodriver.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/target/cucumber-html-report/embedded3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LG/target/test-classes/Utils/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__com_jcraft_jzlib_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__dnsjava_dnsjava_2_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__edu_umass_cs_benchlab_harlib_1_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__net_lightbody_bmp_browsermob_core_2_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/src/test/java/Pages/CommercialDisplaysPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGScraping/src/test/resources/Scrape.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGVideos/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../LGVideos/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__info_cukes_cucumber_core_1_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__info_cukes_cucumber_junit_1_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__net_sf_uadetector_uadetector_core_0_9_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/plugins/firebug-2.0.17.xpi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/src/test/java/Pages/WcollageContentPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/src/test/resources/AttachWidget.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/src/test/resources/Wcollage.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/target/cucumber-html-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/target/test-classes/AttachWidget.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Logging/target/test-classes/Wcollage.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/MCChina.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/src/test/java/Pages/BasePage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/src/test/java/Pages/SearchesPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/src/test/java/Tests/SearchesTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/target/cucumber-html-report/embedded0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/target/cucumber-html-report/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/target/cucumber-html-report/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/target/test-classes/BatchDownload.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/target/test-classes/Pages/BasePage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MCChina/target/test-classes/Tests/BatchDownloadTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/CSS.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/src/main/resources/live_config.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/src/test/java/BasicInformationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/src/test/java/MiniSiteTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/src/test/resources/BatchUpload.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/src/test/resources/Documents.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/src/test/resources/Images.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/src/test/resources/Naturalsearch.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/classes/OR.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/classes/live_config.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/cucumber-html-report/embedded1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/cucumber-html-report/embedded9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/cucumber-html-report/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/cucumber.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/surefire-reports/TEST-TestRunner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/BatchUploadTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/CustomSearch.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/CustomSearchTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/Features.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/ForgotPassword.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/ForgotPasswordTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/MenuOptionsTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MContentCSS/target/test-classes/RequestAccess.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/copyright/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/kotlinc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/src/main/resources/OR.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ManageContent-DailyChecks/src/test/java/Base.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__edu_umass_cs_benchlab_harlib_1_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/src/test/java/Tests/CommonUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/target/cucumber-html-report/embedded0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/target/cucumber-html-report/embedded2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/target/cucumber-html-report/embedded3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/target/surefire-reports/TEST-Tests.TestRunner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MotTests/target/test-classes/Tests/MobileTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/dictionaries/ajay.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__com_googlecode_java_diff_utils_diffutils_1_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__org_webjars_google_diff_match_patch_20121119_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/.idea/libraries/Maven__org_xmlunit_xmlunit_legacy_2_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/src/test/java/Pages/DifferencesPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/src/test/java/Tests/SheetsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/src/test/java/Tests/TestRunner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/src/test/resources/Brands.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/src/test/resources/Differences.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/cucumber-html-report/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/cucumber.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/surefire-reports/Tests.TestRunner.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/test-classes/Brands.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/test-classes/Pages/BasePage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/test-classes/Pages/redone.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PlatformUpgrade/target/test-classes/Utils/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/src/test/java/Pages/BasePage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/target/cucumber-html-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/target/cucumber-html-report/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/target/test-classes/Pages/BasePage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/target/test-classes/Pages/DysonPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PostLiveQAUrls/target/test-classes/Tests/DysonTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/kotlinc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__com_jcraft_jzlib_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__net_lightbody_bmp_browsermob_core_2_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__net_lightbody_bmp_mitm_2_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__net_sf_qualitycheck_quality_check_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__net_sf_uadetector_uadetector_core_0_9_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__net_sf_uadetector_uadetector_resources_2014_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_54.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Practice/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjectSet/src/test/java/Utils/WebConnector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_12_v20150709.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_52_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/main/resources/dev_config.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/main/resources/prod_config.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/java/AddUserTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/java/DisableAccountsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/java/KeywordSearchTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/java/RemoveGroupUserTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/java/promotion_product_levelTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/resources/Module2/ManualProductDelete.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/resources/Module4/AssignUserstoGroups.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/resources/Module4/BatchPromotions.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/resources/Phase1/AssetUploadImprovement.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/src/test/resources/Phase2/Embargo.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/classes/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/cucumber-html-report/embedded10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/cucumber-html-report/embedded15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/cucumber-html-report/embedded18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/cucumber-html-report/embedded7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/BatchUploadTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/BatchpromotionsTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/EmbargoTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/Module1/BatchUsers.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/Module1/ViewUsers.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/Module2/XmlRestrictionOnProduct.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/Phase2/AddGroupMembers.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/PromotionAssociationTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/RemoveUsersFromGroupTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung Health Check-DEV/target/test-classes/TestRunner.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/src/test/java/AddProductTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/target/classes/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/target/cucumber-reports/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/target/test-classes/AddtoCartTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Samsung/target/test-classes/CommonUtil.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/kotlinc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/src/test/java/Pages/LoginPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/src/test/java/Tests/AdminFunctionsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/src/test/java/Tests/SearchTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/src/test/resources/Module2/ManualProductDeletion.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/target/test-classes/Module1/StandardUser.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/target/test-classes/Module2/KewordSearch.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../SamsungHealthCheck/target/test-classes/Pages/SearchPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/kotlinc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/copyright/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_12_v20150709.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/Staus.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/src/test/java/InlineSISTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/src/test/java/MSFlix360Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/src/test/java/RetFeedsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/src/test/java/SandboxTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/Staus-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/cucumber-html-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/cucumber-html-report/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/cucumber-html-report/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/surefire-reports/TEST-TestRunner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/AttachWidget.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/AttachWidgetTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/Flixfacts.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/FlixfactsTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/InlineSIS.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/InlineSISTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/RetFeedsTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/HealthChecks-Services/target/test-classes/SignUpPortalTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/builds/1/changelog.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/builds/2/build.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/builds/2/changelog.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/builds/3/changelog.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/builds/lastSuccessfulBuild" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services check/builds/lastUnsuccessfulBuild" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_24.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_20_v20161216.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/Services.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/src/test/java/Tests/AllServicesTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/src/test/java/Utils/WebConnector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/target/cucumber-html-report/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/target/test-classes/DartyServices.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/target/test-classes/Pages/AllServicesPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Services/target/test-classes/Tests/AllServicesTests.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/kotlinc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/src/test/java/Pages/VideoPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/target/cucumber-html-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/target/test-classes/Hotspots.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/target/test-classes/InpageMinisite.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/target/test-classes/Pages/VideoPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingLive/target/test-classes/Tests/TrackingTests.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__edu_umass_cs_benchlab_harlib_1_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/src/test/java/Pages/AttachWidgetPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/src/test/resources/AttachWidget.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/target/test-classes/Pages/AttachWidgetPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/target/test-classes/Pages/BasePage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/target/test-classes/Pages/TrackingPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/target/test-classes/Pages/VideoPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingServices/target/test-classes/Utils/Connector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__edu_umass_cs_benchlab_harlib_1_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/TrackingTest.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/drivers/chromedriver.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/drivers/phantomjs.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/src/test/java/Tests/TestRunner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/src/test/java/Tests/TrackingTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/src/test/java/Utils/WebConnector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/src/test/resources/AttachWidget.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/src/test/resources/Comparision.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/src/test/resources/Tracking.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/cucumber-html-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/cucumber-html-report/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/cucumber.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/test-classes/AttachWidget.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/test-classes/Pages/BasePage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TrackingTest/target/test-classes/Utils/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_24.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_20_v20161216.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/target/cucumber.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/target/test-classes/Tests/WCTests.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Unilever/target/test-classes/Utils/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_20_v20161216.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/src/test/java/Pages/ABPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/target/cucumber-html-report/formatter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/target/cucumber-html-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/target/test-classes/Pages/BasePage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/target/test-classes/Pages/UnileverPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/target/test-classes/Unilever.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../UnileverScrapping/target/test-classes/Utils/WebConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../VideoResrtriction/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/src/test/java/Pages/BasePage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/src/test/java/Pages/CompetitorPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/src/test/java/Utils/WebConnector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../WebCollageContent/target/test-classes/Pages/CompetitorPage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Zap/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Zap/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../BSAuto/BSAuto.iml" afterPath="$PROJECT_DIR$/../BSAuto/BSAuto.iml" />
+      <change beforePath="$PROJECT_DIR$/../BSAuto/pom.xml" afterPath="$PROJECT_DIR$/../BSAuto/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../MigrationTests" afterPath="$PROJECT_DIR$/../MigrationTests" />
+      <change beforePath="$PROJECT_DIR$/../PageObject" afterPath="$PROJECT_DIR$/../PageObject" />
+      <change beforePath="$PROJECT_DIR$/../projects" afterPath="$PROJECT_DIR$/../projects" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="102" column="14" lean-forward="true" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DBConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="27" column="111" lean-forward="true" selection-start-line="27" selection-start-column="111" selection-end-line="27" selection-end-column="111" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/DBConnection.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="983" />
+    <option name="height" value="530" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DatabaseTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DatabaseTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DatabaseTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="DBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DBConnection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DatabaseTesting" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.DBConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="328959a2-b374-4795-be76-f6293e2d0735" name="Default" comment="" />
+      <created>1523530947860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523530947860</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12260128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="102" column="14" lean-forward="true" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="27" column="111" lean-forward="true" selection-start-line="27" selection-start-column="111" selection-end-line="27" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
